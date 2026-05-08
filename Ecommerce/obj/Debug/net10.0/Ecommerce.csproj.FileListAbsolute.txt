@@ -1,0 +1,15 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\bin\Debug\net10.0\Ecommerce.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\bin\Debug\net10.0\Ecommerce.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\bin\Debug\net10.0\Ecommerce.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\bin\Debug\net10.0\Ecommerce.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\bin\Debug\net10.0\Ecommerce.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.sourcelink.json
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\refint\Ecommerce.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\Ecommerce.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day13\Ecommerce\obj\Debug\net10.0\ref\Ecommerce.dll
